@@ -1,0 +1,9 @@
+
+a=14
+b=18
+if a>10 and b>15:
+ print("both a and b satisfy the condition")
+if  a%2==0 or b%2==0:
+ print("at least one number is even")
+if not(a>b):
+ print("it is not true that a is greater than b")
